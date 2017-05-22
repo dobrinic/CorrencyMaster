@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Corrency Master</string>
+    <string name="action_settings">Settings</string>
+    <string name="croatianKuna">HRK:</string>
+    <string name="USDollar">USD:</string>
+    <string name="clearLast">&lt;</string>
+    <string name="convertCurrency">CONVERT</string>
+    <string name="removeLastError">Ne mogu izbrisati prazan unos!</string>
+    <string name="emptyField">Upišite izmos u HRK!</string>
+    <string name="wrongInputText">Pogrešno polje!</string>
+</resources>
